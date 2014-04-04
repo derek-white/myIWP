@@ -1,4 +1,4 @@
 myIWP
 =====
 
-Server side Web Development programmes
+Intro to Web Programming programmes
